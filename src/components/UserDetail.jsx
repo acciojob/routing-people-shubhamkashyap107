@@ -68,7 +68,7 @@ const data = [
     },
     {
       name: "Clementina DuBuque",
-      username: "sneha.dev",
+      username: "Moriah.Stanton",
       email: "sneha@accio.com",
       phone: 9876543299,
       website: "snehadeveloper.com"
