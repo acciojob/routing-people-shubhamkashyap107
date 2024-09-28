@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 
 const data = [
     {
-      name: "Shubham",
+      name: "Leanne Graham",
       username: "qwerty",
       email: "abc@accio.com",
       phone: 9315511606,
