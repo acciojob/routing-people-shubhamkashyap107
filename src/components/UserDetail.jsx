@@ -5,10 +5,10 @@ import { useParams } from 'react-router-dom';
 const data = [
     {
       name: "Leanne Graham",
-      username: "qwerty",
-      email: "abc@accio.com",
-      phone: 9315511606,
-      website: "hello.world"
+      username: "Bret",
+      email: "Sincere@april.biz",
+      phone: "1-770-736-8031 x56442",
+      website: "hildegard.org"
     },
     {
       name: "Aarav",
