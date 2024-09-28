@@ -67,7 +67,7 @@ const data = [
       website: "rahulcreative.tech"
     },
     {
-      name: "Sneha",
+      name: "Clementina DuBuque",
       username: "sneha.dev",
       email: "sneha@accio.com",
       phone: 9876543299,
