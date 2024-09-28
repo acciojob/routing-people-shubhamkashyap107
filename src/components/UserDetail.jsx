@@ -79,6 +79,15 @@ const data = [
 
 const UserDetail = () => {
     const{id} = useParams()
+    const [loading, setLoading] = React.useState(true);
+
+React.useEffect(() => {
+  setTimeout(() => setLoading(false), 1000); // Simulate data fetching
+}, []);
+
+if (loading) {
+  return <p>Loading...</p>;
+}
   return (
     <div>
         <h1>
