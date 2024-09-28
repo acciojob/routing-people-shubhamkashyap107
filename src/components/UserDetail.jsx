@@ -70,7 +70,7 @@ const data = [
       name: "Clementina DuBuque",
       username: "Moriah.Stanton",
       email: "Email: Rey.Padberg@karina.biz",
-      phone: 9876543299,
+      phone: "024-648-3804",
       website: "snehadeveloper.com"
     }
   ];
