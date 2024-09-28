@@ -18,11 +18,11 @@ const data = [
       website: "aarav.dev"
     },
     {
-      name: "Meera",
-      username: "meera_m",
-      email: "meera@accio.com",
-      phone: 9123456789,
-      website: "meera.codes"
+      name: "Clementine Bauch",
+      username: "Samantha",
+      email: "Nathan@yesenia.net",
+      phone: 1-463-123-4447,
+      website: "ramiro.info"
     },
     {
       name: "Ishaan",
